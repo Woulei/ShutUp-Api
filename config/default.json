@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mongodb": "mongodb://localhost:27017/ShutUp",
+  "public": "../public/",
+  "auth": {
+    "token": {
+      "secret": "cNtMozZnymeRvAAoHvf6zI2jDHxVt7dGAmtZi6sIkljKqM3BcqHtYJzF5VS6HiJtdhN44kRo/L+f+dI1D+/qNA=="
+    },
+    "local": {}
+  }
+}
