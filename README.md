@@ -24,17 +24,11 @@ We added two services User and Message. They have the following structure:
  ## Running Locally
   1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
   2. Install your dependencies
-    
-    ```
-    cd path/to/ShutUp; npm install
-    ```
-
+    `cd path/to/ShutUp; npm install`
   3. Start the app
-    
-    ```
-    npm start
-    ```
-  __note:__ You should also have a MongoDB server running.
+    `npm start`
+
+__note:__ You should also have a MongoDB server running.
   
   ## Related Documentation
   * [Codaisseur Reader](https://reader.codaisseur.com/courses/advanced-bootcamp-f801cb01-3c56-4975-9610-3c22e8746b97)
